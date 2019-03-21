@@ -33,7 +33,7 @@
     "setup.ps1"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.4.2",
     "appium-support": "^2.5.0",
     "bluebird": "^3.5.2",
     "lodash": "^4.17.10",
